@@ -1,0 +1,2 @@
+# mlnd_sagemaker_sentiment_analysis
+Sentiment classification model deployed to Sagemaker
